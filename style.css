@@ -17,9 +17,10 @@ body{
 }
     
 
-.icon{
-    /*padding: 25px;*/
-}
+/*.icon{
+    padding: 25px;
+}*/
+
 .star{ 
    /*margin-bottom: 35px;
    margin-top: 20px;*/
@@ -35,14 +36,14 @@ body{
    
 }
 
-.img{
-   /* max-width: 17px;
+/*.img{
+   max-width: 17px;
     min-width: 17px;
     max-height: 16px;
     min-height: 16px;
     text-align: center;
-   padding-top: 35px;*/
-}
+   padding-top: 35px;
+}*/
 
 h1{
     padding-top: 20px;
@@ -55,6 +56,8 @@ h1{
     padding-top: 10px;
     font-size: 15px;
 }
+
+
 
 p{
     color: hsl(217, 12%, 63%);
